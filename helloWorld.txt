@@ -1,0 +1,8 @@
+﻿{
+    "name": "helloWorld",
+    "desc": "Say \"Hello, World.\"",
+    "ver": "1",
+    "reqs": {},
+    "exports": {},
+    "exec": "[\n    [\n        \"$block\",\n        \"draw text _ at _ _ height: _ _ horizontal? _ on _\"\n    ],\n    \"my text\",\n    5,\n    15,\n    12,\n    true,\n    \"thisSprite\"\n]"
+}
